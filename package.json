@@ -8,14 +8,14 @@
     "start": "next start"
   },
   "dependencies": {
+    "autoprefixer": "latest",
     "clsx": "latest",
     "next": "14.2.3",
+    "postcss": "latest",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "autoprefixer": "latest",
-    "postcss": "latest",
     "tailwindcss": "latest",
-    "@tailwindcss/postcss": "latest"
+    "@tailwindcss/postcss": "latest",
     "typescript": "latest"
   }
 }
